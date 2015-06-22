@@ -1,0 +1,5 @@
+Bu script Twitter üzerinde takip ettiğiniz ve sizi takip etmeyen, veya takip eden ve sizin takip etmediğiniz kişileri tespit etmek için geliştirilmiştir. <br/>
+
+Kullanımı : <br/>
+
+python twitter.py -u kullanici_adi
